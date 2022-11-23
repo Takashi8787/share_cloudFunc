@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "kaigo-test-68986",
+    "dev_accidents-app-2df16": "accidents-app-2df16",
+    "prod": "accidentsapp-2bd0f"
+  },
+  "targets": {},
+  "etags": {}
+}
